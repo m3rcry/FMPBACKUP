@@ -1,0 +1,1457 @@
+fileFormatVersion: 2
+guid: 7431b528fc3398042b5108da3fb5aed1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638202673780607595
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Small Hero _Frame_0
+    originalName: 
+    pivot: {x: 3.6875, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 389
+      width: 16
+      height: 19
+    spriteID: 0c6ecdeb26b4dff46a9c7e18bda75ae9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 389}
+  - name: Small Hero _Frame_1
+    originalName: 
+    pivot: {x: 3.4705882, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 200
+      width: 17
+      height: 19
+    spriteID: 23d686b54fc02c64b80eec7d345536ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 200}
+  - name: Small Hero _Frame_5
+    originalName: 
+    pivot: {x: 3.1, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 396
+      width: 20
+      height: 19
+    spriteID: e91120553c877c448baa1a67baaf4253
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 396}
+  - name: Small Hero _Frame_6
+    originalName: 
+    pivot: {x: 3.05, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 424
+      width: 20
+      height: 19
+    spriteID: a7fd76accd3753d488417dc5236a994e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 424}
+  - name: Small Hero _Frame_7
+    originalName: 
+    pivot: {x: 3.05, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 451
+      width: 20
+      height: 19
+    spriteID: 7d52e618e86176a4e843e19b209ebfb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 451}
+  - name: Small Hero _Frame_8
+    originalName: 
+    pivot: {x: 3.2105262, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 116
+      width: 19
+      height: 19
+    spriteID: c636947c15652a74380b0635e01743f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 116}
+  - name: Small Hero _Frame_9
+    originalName: 
+    pivot: {x: 3.6875, y: -0.7727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 143
+      width: 16
+      height: 22
+    spriteID: 2f67cc4222827104ebe64b47c2d8ae07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 143}
+  - name: Small Hero _Frame_10
+    originalName: 
+    pivot: {x: 3, y: -1.0526316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 259
+      width: 21
+      height: 19
+    spriteID: a3f7eb0d35ad38c48a040f5633a552d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 259}
+  - name: Small Hero _Frame_11
+    originalName: 
+    pivot: {x: 3, y: -1.0526316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 315
+      width: 21
+      height: 19
+    spriteID: 187a6947a4fa7244b9fcc87697ad9ad4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 315}
+  - name: Small Hero _Frame_12
+    originalName: 
+    pivot: {x: 3, y: -1.0526316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 369
+      width: 21
+      height: 19
+    spriteID: 2f49f8afce7207840b05d3afb14d1672
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 369}
+  - name: Small Hero _Frame_13
+    originalName: 
+    pivot: {x: 3, y: -0.8947369}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 221
+      y: 4
+      width: 21
+      height: 19
+    spriteID: da37b549234038748bfd8059bc472dd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 4}
+  - name: Small Hero _Frame_14
+    originalName: 
+    pivot: {x: 1.8461539, y: -0.94117653}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 31
+      width: 39
+      height: 17
+    spriteID: 6d8d69cbf0db5d94abb8551bd4a8ac9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 31}
+  - name: Small Hero _Frame_15
+    originalName: 
+    pivot: {x: 1.7209303, y: -0.94117653}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 478
+      width: 43
+      height: 17
+    spriteID: 95c8c9ce95e73144da818e362744abff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 478}
+  - name: Small Hero _Frame_16
+    originalName: 
+    pivot: {x: 1.1951219, y: -1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 31
+      width: 41
+      height: 15
+    spriteID: dfe34e4bb0647bf4090a4e7658072355
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 31}
+  - name: Small Hero _Frame_17
+    originalName: 
+    pivot: {x: 0.86764705, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 201
+      width: 68
+      height: 19
+    spriteID: 69d5039f64b2de746aade069d76c2d30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 201}
+  - name: Small Hero _Frame_18
+    originalName: 
+    pivot: {x: 0.8428571, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 147
+      width: 70
+      height: 19
+    spriteID: 0adc0a1d54f29634eafbe9ff61fda237
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 147}
+  - name: Small Hero _Frame_19
+    originalName: 
+    pivot: {x: 0.8428571, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 174
+      width: 70
+      height: 19
+    spriteID: ce67a2eeb85b80d4495bff36002ddd57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 174}
+  - name: Small Hero _Frame_20
+    originalName: 
+    pivot: {x: 2.8695655, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 286
+      width: 23
+      height: 19
+    spriteID: 5ba113a180d2fc941bbb1351402a1c02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 286}
+  - name: Small Hero _Frame_21
+    originalName: 
+    pivot: {x: 3.15, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 89
+      width: 20
+      height: 19
+    spriteID: 0fdbfb35585c5aa4390d05883cf91137
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 89}
+  - name: Small Hero _Frame_22
+    originalName: 
+    pivot: {x: 3.5294116, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 227
+      width: 17
+      height: 19
+    spriteID: e86d7546dcd96614880207dfa9956280
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 227}
+  - name: Small Hero _Frame_23
+    originalName: 
+    pivot: {x: 3.1, y: -0.7619048}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 228
+      width: 20
+      height: 21
+    spriteID: 697b2355573f9e343b742f313035cc30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 228}
+  - name: Small Hero _Frame_24
+    originalName: 
+    pivot: {x: 1.3636364, y: -0.6521739}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 228
+      width: 55
+      height: 23
+    spriteID: 0cf64bb4d91a1904fbea311a6eeb4d64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 228}
+  - name: Small Hero _Frame_25
+    originalName: 
+    pivot: {x: 1.4, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 259
+      width: 55
+      height: 19
+    spriteID: 155812cd1eb50094f9f466507722e235
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 259}
+  - name: Small Hero _Frame_26
+    originalName: 
+    pivot: {x: 1.462963, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 315
+      width: 54
+      height: 19
+    spriteID: b0575d6c16652f647bc010d3374b2a3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 315}
+  - name: Small Hero _Frame_27
+    originalName: 
+    pivot: {x: 2.8000002, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 56
+      width: 20
+      height: 25
+    spriteID: fbe8892baeadf7f4099551214aca5559
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 56}
+  - name: Small Hero _Frame_28
+    originalName: 
+    pivot: {x: 2.5, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 478
+      width: 24
+      height: 23
+    spriteID: f137bef224e30d34399207c0404bac70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 478}
+  - name: Small Hero _Frame_29
+    originalName: 
+    pivot: {x: 2.3333333, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 342
+      width: 27
+      height: 19
+    spriteID: 6c2f7231802dccb498d312dacaac543d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 342}
+  - name: Small Hero _Frame_30
+    originalName: 
+    pivot: {x: 0.73809516, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 84
+      height: 27
+    spriteID: d802a7f0c8f8e6f4abac9090516b685b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Small Hero _Frame_31
+    originalName: 
+    pivot: {x: 0.6351351, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 93
+      width: 74
+      height: 19
+    spriteID: ce790974c13f83843b593409741104a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 93}
+  - name: Small Hero _Frame_32
+    originalName: 
+    pivot: {x: 0.6351351, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 120
+      width: 74
+      height: 19
+    spriteID: 35584045439d5f842a9919c02d2314e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 120}
+  - name: Small Hero _Frame_33
+    originalName: 
+    pivot: {x: 0.618421, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 66
+      width: 76
+      height: 19
+    spriteID: 97665653a59b91f4fb72d967c67ae953
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 66}
+  - name: Small Hero _Frame_34
+    originalName: 
+    pivot: {x: 1.75, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 424
+      width: 40
+      height: 19
+    spriteID: b19a292472d8cf943af5bc86832a521b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 424}
+  - name: Small Hero _Frame_35
+    originalName: 
+    pivot: {x: 3.6875, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 416
+      width: 16
+      height: 19
+    spriteID: 2364ef5dc6c04ad429632040cb38f360
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 416}
+  - name: Small Hero _Frame_36
+    originalName: 
+    pivot: {x: 1.3877552, y: -0.7619048}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 286
+      width: 49
+      height: 21
+    spriteID: 5bb82a27e2c554940a54f785b6905826
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 286}
+  - name: Small Hero _Frame_37
+    originalName: 
+    pivot: {x: 1.4375, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 342
+      width: 48
+      height: 19
+    spriteID: 23eb462e991d6404fb7acb621f1377c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 342}
+  - name: Small Hero _Frame_38
+    originalName: 
+    pivot: {x: 2.2941177, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 254
+      width: 17
+      height: 19
+    spriteID: e39d2e6d8c9afc24b9e74c1c508e7f1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 254}
+  - name: Small Hero _Frame_39
+    originalName: 
+    pivot: {x: 1.3720931, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 396
+      width: 43
+      height: 20
+    spriteID: 4ed1b939876d15c4eb8f83fe7b6f3ca7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 396}
+  - name: Small Hero _Frame_40
+    originalName: 
+    pivot: {x: 1.3043479, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 369
+      width: 46
+      height: 19
+    spriteID: 5f69ec3d16d637e4c8c94df0fb6da448
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 369}
+  - name: Small Hero _Frame_41
+    originalName: 
+    pivot: {x: 3.5294116, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 281
+      width: 17
+      height: 19
+    spriteID: b8461a5db7b686f468c53c970b06720c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 281}
+  - name: Small Hero _Frame_42
+    originalName: 
+    pivot: {x: 3.333333, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 173
+      width: 18
+      height: 19
+    spriteID: 2fdba4baaa2ae7c40b014b35af19cadf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 173}
+  - name: Small Hero _Frame_43
+    originalName: 
+    pivot: {x: 1.75, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 451
+      width: 40
+      height: 19
+    spriteID: 7cc9cda189830ee4a8e7eb9ec6b45c42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 451}
+  - name: Small Hero _Frame_44
+    originalName: 
+    pivot: {x: 0.886076, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 39
+      width: 79
+      height: 19
+    spriteID: 5bf7b9ba34c8d554dad96027ec34739e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 39}
+  - name: Small Hero _Frame_45
+    originalName: 
+    pivot: {x: 0.5982906, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 4
+      width: 117
+      height: 19
+    spriteID: 67f57269856f388448a2c23ec0b31089
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 4}
+  - name: Small Hero _Frame_2
+    originalName: 
+    pivot: {x: 3.4705882, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 308
+      width: 17
+      height: 19
+    spriteID: acdc5b0c89a8faa45b2f386af723f586
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 308}
+  - name: Small Hero _Frame_3
+    originalName: 
+    pivot: {x: 3.4705882, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 335
+      width: 17
+      height: 19
+    spriteID: e5c692cbd708d714b87abd25dd2f4c89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 335}
+  - name: Small Hero _Frame_4
+    originalName: 
+    pivot: {x: 3.4705882, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 362
+      width: 17
+      height: 19
+    spriteID: 6cfb334e048fe454dbf4e57c76187400
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 362}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -825588453
+    name: 'Small Hero '
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Small Hero _Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 34
+        y: 16
+        width: 16
+        height: 19
+      spriteId: 0c6ecdeb26b4dff46a9c7e18bda75ae9
+    - name: Small Hero _Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 34
+        y: 16
+        width: 17
+        height: 19
+      spriteId: 23d686b54fc02c64b80eec7d345536ea
+    - name: Small Hero _Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 31
+        y: 16
+        width: 20
+        height: 19
+      spriteId: e91120553c877c448baa1a67baaf4253
+    - name: Small Hero _Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 32
+        y: 16
+        width: 20
+        height: 19
+      spriteId: a7fd76accd3753d488417dc5236a994e
+    - name: Small Hero _Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 32
+        y: 16
+        width: 20
+        height: 19
+      spriteId: 7d52e618e86176a4e843e19b209ebfb7
+    - name: Small Hero _Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 32
+        y: 16
+        width: 19
+        height: 19
+      spriteId: c636947c15652a74380b0635e01743f2
+    - name: Small Hero _Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 34
+        y: 17
+        width: 16
+        height: 22
+      spriteId: 2f67cc4222827104ebe64b47c2d8ae07
+    - name: Small Hero _Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 30
+        y: 20
+        width: 21
+        height: 19
+      spriteId: a3f7eb0d35ad38c48a040f5633a552d8
+    - name: Small Hero _Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 30
+        y: 20
+        width: 21
+        height: 19
+      spriteId: 187a6947a4fa7244b9fcc87697ad9ad4
+    - name: Small Hero _Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 30
+        y: 20
+        width: 21
+        height: 19
+      spriteId: 2f49f8afce7207840b05d3afb14d1672
+    - name: Small Hero _Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 30
+        y: 17
+        width: 21
+        height: 19
+      spriteId: da37b549234038748bfd8059bc472dd3
+    - name: Small Hero _Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 21
+        y: 16
+        width: 39
+        height: 17
+      spriteId: 6d8d69cbf0db5d94abb8551bd4a8ac9b
+    - name: Small Hero _Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 19
+        y: 16
+        width: 43
+        height: 17
+      spriteId: 95c8c9ce95e73144da818e362744abff
+    - name: Small Hero _Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 44
+        y: 18
+        width: 41
+        height: 15
+      spriteId: dfe34e4bb0647bf4090a4e7658072355
+    - name: Small Hero _Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 34
+        y: 16
+        width: 68
+        height: 19
+      spriteId: 69d5039f64b2de746aade069d76c2d30
+    - name: Small Hero _Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 34
+        y: 16
+        width: 70
+        height: 19
+      spriteId: 0adc0a1d54f29634eafbe9ff61fda237
+    - name: Small Hero _Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 34
+        y: 16
+        width: 70
+        height: 19
+      spriteId: ce67a2eeb85b80d4495bff36002ddd57
+    - name: Small Hero _Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 27
+        y: 16
+        width: 23
+        height: 19
+      spriteId: 5ba113a180d2fc941bbb1351402a1c02
+    - name: Small Hero _Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 30
+        y: 16
+        width: 20
+        height: 19
+      spriteId: 0fdbfb35585c5aa4390d05883cf91137
+    - name: Small Hero _Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 33
+        y: 16
+        width: 17
+        height: 19
+      spriteId: e86d7546dcd96614880207dfa9956280
+    - name: Small Hero _Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 31
+        y: 16
+        width: 20
+        height: 21
+      spriteId: 697b2355573f9e343b742f313035cc30
+    - name: Small Hero _Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 18
+        y: 15
+        width: 55
+        height: 23
+      spriteId: 0cf64bb4d91a1904fbea311a6eeb4d64
+    - name: Small Hero _Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 16
+        y: 16
+        width: 55
+        height: 19
+      spriteId: 155812cd1eb50094f9f466507722e235
+    - name: Small Hero _Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 14
+        y: 16
+        width: 54
+        height: 19
+      spriteId: b0575d6c16652f647bc010d3374b2a3c
+    - name: Small Hero _Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 37
+        y: 16
+        width: 20
+        height: 25
+      spriteId: fbe8892baeadf7f4099551214aca5559
+    - name: Small Hero _Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 33
+        y: 16
+        width: 24
+        height: 23
+      spriteId: f137bef224e30d34399207c0404bac70
+    - name: Small Hero _Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 30
+        y: 16
+        width: 27
+        height: 19
+      spriteId: 6c2f7231802dccb498d312dacaac543d
+    - name: Small Hero _Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 31
+        y: 16
+        width: 84
+        height: 27
+      spriteId: d802a7f0c8f8e6f4abac9090516b685b
+    - name: Small Hero _Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 46
+        y: 16
+        width: 74
+        height: 19
+      spriteId: ce790974c13f83843b593409741104a7
+    - name: Small Hero _Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 46
+        y: 16
+        width: 74
+        height: 19
+      spriteId: 35584045439d5f842a9919c02d2314e7
+    - name: Small Hero _Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 46
+        y: 16
+        width: 76
+        height: 19
+      spriteId: 97665653a59b91f4fb72d967c67ae953
+    - name: Small Hero _Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 23
+        y: 16
+        width: 40
+        height: 19
+      spriteId: b19a292472d8cf943af5bc86832a521b
+    - name: Small Hero _Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 34
+        y: 16
+        width: 16
+        height: 19
+      spriteId: 2364ef5dc6c04ad429632040cb38f360
+    - name: Small Hero _Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 25
+        y: 16
+        width: 49
+        height: 21
+      spriteId: 5bb82a27e2c554940a54f785b6905826
+    - name: Small Hero _Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 24
+        y: 16
+        width: 48
+        height: 19
+      spriteId: 23eb462e991d6404fb7acb621f1377c9
+    - name: Small Hero _Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 54
+        y: 16
+        width: 17
+        height: 19
+      spriteId: e39d2e6d8c9afc24b9e74c1c508e7f1d
+    - name: Small Hero _Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 34
+        y: 16
+        width: 43
+        height: 20
+      spriteId: 4ed1b939876d15c4eb8f83fe7b6f3ca7
+    - name: Small Hero _Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 33
+        y: 16
+        width: 46
+        height: 19
+      spriteId: 5f69ec3d16d637e4c8c94df0fb6da448
+    - name: Small Hero _Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 33
+        y: 16
+        width: 17
+        height: 19
+      spriteId: b8461a5db7b686f468c53c970b06720c
+    - name: Small Hero _Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 33
+        y: 16
+        width: 18
+        height: 19
+      spriteId: 2fdba4baaa2ae7c40b014b35af19cadf
+    - name: Small Hero _Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 23
+        y: 16
+        width: 40
+        height: 19
+      spriteId: 7cc9cda189830ee4a8e7eb9ec6b45c42
+    - name: Small Hero _Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 23
+        y: 16
+        width: 79
+        height: 19
+      spriteId: 5bf7b9ba34c8d554dad96027ec34739e
+    - name: Small Hero _Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 23
+        y: 16
+        width: 117
+        height: 19
+      spriteId: 67f57269856f388448a2c23ec0b31089
+    - name: Small Hero _Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 34
+        y: 16
+        width: 17
+        height: 19
+      spriteId: acdc5b0c89a8faa45b2f386af723f586
+    - name: Small Hero _Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 34
+        y: 16
+        width: 17
+        height: 19
+      spriteId: e5c692cbd708d714b87abd25dd2f4c89
+    - name: Small Hero _Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 34
+        y: 16
+        width: 17
+        height: 19
+      spriteId: 6cfb334e048fe454dbf4e57c76187400
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 186, y: 80}
